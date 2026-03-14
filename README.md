@@ -1,62 +1,26 @@
-# Portifolio
-# Portfólio Pessoal — Lorenzo Cecatto Paim
+﻿# Portfólio — Lorenzo Cecatto Paim
 
-Estudante do ensino médio | Desenvolvedor em formação  
-Python • Frontend • Lógica e Matemática  
+Desenvolvedor web em formação, com foco em Python e Frontend. Este portfólio apresenta meus projetos, minhas habilidades e o estilo de trabalho que sigo: clareza, organização e foco no usuário.
 
-Sou estudante apaixonado por tecnologia e matemática, com foco em desenvolvimento de software.
-Tenho experiência com Python e desenvolvimento web e estou sempre buscando evoluir através de projetos práticos.
+## O que você encontra aqui
+- Apresentação profissional e objetiva
+- Projetos reais com descrição clara do problema e da solução
+- Contato direto para freelas e oportunidades de estágio
 
-Este é o meu **portfólio pessoal**, desenvolvido com o objetivo de apresentar meus projetos, habilidades técnicas e trajetória como desenvolvedor em formação.
+## Projetos em destaque
+- **ProvaLab** — Plataforma educacional com banco de questões de matemática para prática e preparação para provas. Interface simples, rápida e voltada para resolução de exercícios.
+- **Simulador de Pizzaria** — Fluxo completo de compra com carrinho dinâmico e foco em usabilidade.
+- **Jogo da Velha** — Lógica de vitória/empate, reinício rápido e interface simples.
+- **App de Clima** — Consumo de API externa, atualização em tempo real e tratamento de erros.
+- **Bateria Virtual** — Instrumento online com mapeamento de teclas e efeitos sonoros.
 
-O projeto foi pensado para ser simples, responsivo e profissional, servindo tanto para **recrutadores** quanto para **clientes de freelancing**.
+## Tecnologias
+- HTML5, CSS3, JavaScript
+- Python
+- SQLite
+- Git e GitHub
 
-
-## Tecnologias Utilizadas
-
-- **HTML5** — estrutura do site  
-- **CSS3** — estilização e responsividade  
-- **JavaScript** — interatividade e dinamismo  
-- **SVG Icons** — ícones vetoriais leves e escaláveis (estou aprendendo)  
-- *(Em expansão para projetos com Python e Backend)*
-
-
-## Funcionalidades
-
-- Página inicial com apresentação pessoal  
-- Seção de projetos com descrição e links  
-- Links para redes profissionais (GitHub, LinkedIn, etc.)  
-- Layout responsivo (desktop e mobile)  
-- Ícones SVG personalizados e estilizados via CSS  
-
-
-## Tecnologias e Ferramentas
-- Python (Flask)
-- HTML, CSS, JavaScript
-- SQL (SQLite)
-- Git & GitHub
-- Lógica de Programação
-
-
-*Projetos em Destaque*
-
-# Sistema de Login com Flask
-Aplicação web com autenticação de usuários.
-- Cadastro e login
-- Hash de senhas
-- Banco de dados SQLite
-- Flask + Flask-Login
-
-# Site de Portfólio
-Site pessoal para apresentar meus projetos e habilidades.
-- HTML e CSS, (desenvolvento integração com JavaScript)
-- Design responsivo (Utilizo a I.A. ao meu favor para realizar design inovadores e chamativos)
-- Estrutura profissional
-
-**### Juntamente com todos que estão no site do Portfólio ###**
-
-# Objetivos
-- Conquistar experiência prática na área de tecnologia
-- Trabalhar como freelancer ou estagiário
-- Evoluir para áreas como desenvolvimento backend e ciência de dados
-
+## Próximos passos
+- Publicar repositórios individuais para cada projeto com README e instruções.
+- Evoluir ProvaLab com mais filtros de questões e estatísticas de desempenho.
+- Aprimorar SEO, performance e acessibilidade do site.
